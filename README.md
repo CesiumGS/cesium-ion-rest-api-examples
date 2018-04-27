@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://cesium.com/"><img src="ion_color_black.png" /></a>a>
+<a href="https://cesium.com/"><img src="ion_color_black.png" /></a>
 </p>
 
 [Cesium ion](https://cesium.com/) is a commercial platform for providing 3D content and 3D tiling services to the open-source [CesiumJS](https://cesiumjs.org/) visualization library. :earth_americas:
