@@ -6,4 +6,4 @@
 
 This is an issue-only repo for feature requests, bug reports, and support questions for Cesium ion.  We love feedback! :heart:
 
-If you have a paid commercial Cesium ion account, feel free to use this repo, especially if your question may help other users.  If you need to or prefer to keep your question private, email todd@cesium.com
+If you have a paid commercial Cesium ion account, feel free to use this repo, especially if your question may help other users.  If you need to or prefer to keep your question private, email tim@cesium.com
