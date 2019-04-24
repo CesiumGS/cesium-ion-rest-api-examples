@@ -1,0 +1,43 @@
+{
+  "name": "ion-rest-api",
+  "version": "1.0.0",
+  "description": "An example application that illustrates how to upload CityGML data to Cesium ion using Node.js. For a full walk-through of this example, see https://cesium.com/docs/tutorials/rest-api/.",
+  "homepage": "https://cesium.com",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Analytical Graphics, Inc.",
+    "url": "http://www.agi.com"
+  },
+  "keywords": [
+    "cesium",
+    "ion",
+    "3d",
+    "gis",
+    "geospatial",
+    "gltf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnalyticalGraphicsInc/cesium-ion-community.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnalyticalGraphicsInc/cesium-ion-community/issues",
+    "email": "support@cesium.com"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-cesium": "^6.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.439.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "eslintConfig": {
+    "extends": "cesium/node"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "eslint": "eslint \"./**/*.js\""
+  }
+}
