@@ -10,7 +10,7 @@ const request = require('request-promise');
 
 // Replace <your_access_token> below with a token from your ion account.
 // This example requires a token with assets:list, assets:read, and assets:write scopes.
-// Tokens page: https://cesium.com/dev-ion/tokens
+// Tokens page: https://cesium.com/ion/tokens
 const accessToken = '<your_access_token>';
 
 // Sample data is already included in this repository, but you can modify the below
