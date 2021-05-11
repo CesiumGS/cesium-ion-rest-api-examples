@@ -5,8 +5,8 @@
   "homepage": "https://cesium.com",
   "license": "Apache-2.0",
   "author": {
-    "name": "Analytical Graphics, Inc.",
-    "url": "http://www.agi.com"
+    "name": "Cesium GS, Inc.",
+    "url": "https://www.cesium.com"
   },
   "keywords": [
     "cesium",
@@ -25,13 +25,13 @@
     "email": "support@cesium.com"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^7.26.0",
     "eslint-config-cesium": "^8.0.1"
   },
   "dependencies": {
-    "aws-sdk": "^2.439.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "aws-sdk": "^2.904.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "eslintConfig": {
     "extends": "cesium/node"
